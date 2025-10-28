@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Overview of Devops assignment 2
 
 This project showcases the end-to-end automation of a modern DevOps pipeline for a web-based application.
@@ -119,3 +120,6 @@ The entire process is defined and managed through the Jenkins pipeline (Jenkinsf
 
 
 
+=======
+# devops-assignment-0001
+>>>>>>> f4d8fe5e302c96e9ef70c516caf9129776f166da
